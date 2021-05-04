@@ -17,14 +17,14 @@ noCap is a PCAP parsing script which does the following:
 ### Dependencies
 
 You will need the following tools installed:
-    1. `datamash`
-    2. `pr`
-    3. `suricata`
-    4. `yara`
-    5. `clamscan`
-    6. `tshark`
-    7. `zeek`
-    8. `egrep`
+ 1. `datamash`
+ 2. `pr`
+ 3. `suricata`
+ 4. `yara`
+ 5. `clamscan`
+ 6. `tshark`
+ 7. `zeek`
+ 8. `egrep`
 
 ### Installing
 
