@@ -1,0 +1,8 @@
+datamash
+pr
+suricata
+yara
+clamscan
+tshark
+zeek
+egrep
