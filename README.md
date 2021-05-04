@@ -44,12 +44,11 @@ You will need the following tools installed:
 
 ## Help
 
-Double-check you have all the correct tools installed.
-The Remnux alias `yara-rules` is referenced in the script, you may need to alter this part in the script or add the alias instead.
+* Double-check you have all the correct tools installed.
+* The Remnux alias `yara-rules` is referenced in the script, you may need to alter this part in the script or add the alias instead.
 
 ## Authors
 
-Droogy
 [@xDroogy](https://twitter.com/xDroogy)
 
 
