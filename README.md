@@ -5,12 +5,12 @@ noCap
 ## Description
 
 noCap is a PCAP parsing script which does the following:
-    1. Creates directory structure
-    2. Extract artifacts (if there are any), hash them and run a YARA and ClamAV scan against them
-    3. Enumerate private IP hosts and list IP and MAC
-    4. Run Suricata against the PCAP
-    5. Run Zeek against the PCAP
-    6. Parses the Zeek logs and runs a couple basic calculations to find possible pivot points for further investigation
+1. Creates directory structure
+2. Extract artifacts (if there are any), hash them and run a YARA and ClamAV scan against them
+3. Enumerate private IP hosts and list IP and MAC
+4. Run Suricata against the PCAP
+5. Run Zeek against the PCAP
+6. Parses the Zeek logs and runs a couple basic calculations to find possible pivot points for further investigation
 
 ## Getting Started
 
